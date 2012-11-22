@@ -27,7 +27,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Provides a method to view Cacti graphs with a resolution of upto 5
-seconds. Features
+seconds.
 
 Allows Syncronization between windows. Dynamically sizes viewing
 window based upon graph size. Uses Ajax for Graph generation.
